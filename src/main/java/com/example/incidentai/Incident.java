@@ -9,5 +9,6 @@ public class Incident {
     public String summary;
     public String rootCauses;
     public String promptVersion;
+    public double confidence;
     public Instant createdAt = Instant.now();
 }
