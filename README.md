@@ -10,7 +10,7 @@ Build a production-style AI system that ingests logs and metrics, detects anomal
 
 
 
-# AI Incident Analyzer with SRE AI Agent
+## AI Incident Analyzer with SRE AI Agent
 
 A production-inspired **AI Agent system** that assists on-call engineers by analyzing incidents, deciding next actions, and escalating to humans when required.
 
