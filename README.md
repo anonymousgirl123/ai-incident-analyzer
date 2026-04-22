@@ -22,7 +22,7 @@ This project goes beyond simple LLM integration and demonstrates how to build a 
 
 The system implements a **Virtual SRE Agent** with:
 
-- Goal-oriented behavior  
+- Goal-oriented behavior   
 - Explicit decision-making  
 - Multiple possible actions  
 - Stateful memory  
