@@ -141,7 +141,7 @@ curl http://localhost:8080/incident/1
 ```
 
 ### Submit bad feedback
-```bash
+```bash 
 curl -X POST "http://localhost:8080/feedback/bad?service=orders"
 ```
 
